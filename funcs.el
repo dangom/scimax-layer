@@ -1,9 +1,8 @@
 ;;; funcs.el --- Scimax Layer functions File for Spacemacs
 ;;
-;; Copyright (c) 2012-2018 Sylvain Benner & Contributors
 ;;
 ;; Author: Daniel P. Gomez <gomez.danp@gmail.com>
-;; URL: https://github.com/syl20bnr/spacemacs
+;; URL: https://github.com/dangom/spacescimax.git
 ;;
 ;; This file is not part of GNU Emacs.
 ;;

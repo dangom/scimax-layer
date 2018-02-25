@@ -11,7 +11,7 @@
 - [[#key-bindings][Key bindings]]
 
 * Description
-This layer brings some of the functionality provided by the starter package "scimax" into Spacemacs. 
+This layer brings some of the functionality provided by the starter package "[[https://github.com/jkitchin/scimax][scimax]]" into Spacemacs. 
 
 ** Features:
 Scimax offers an extensive Org-Mode opinionated configuration, including (but not limited to):
@@ -20,6 +20,7 @@ Scimax offers an extensive Org-Mode opinionated configuration, including (but no
   - Persistent text highlighting
   - Functions for better sentence and paragraph navigation
 
+This layer attempts to bring some of that to Spacemacs. The features provided are still far from everything scimax offers.
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
 add =scimax= to the existing =dotspacemacs-configuration-layers= list in this
@@ -27,9 +28,9 @@ file.
 
 * Key bindings
 
-| Key Binding | Description    |
-|-------------+----------------|
-| ~SPC x x x~ | Does thing01   |
+| Key Binding | Description           |
+|-------------+-----------------------|
+| ~RET~       | In Org-Mode, dwim RET |
 
 # Use GitHub URLs if you wish to link a Spacemacs documentation file or its heading.
 # Examples:
