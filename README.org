@@ -12,6 +12,7 @@
 
 * Description
 This layer brings some of the functionality provided by the starter package "[[https://github.com/jkitchin/scimax][scimax]]" into Spacemacs. 
+Functions where taken from that distribution as-is, and thus the correct copyright assignment should be given to the author of scimax, not the author of the layer.
 
 ** Features:
 Scimax offers an extensive Org-Mode opinionated configuration, including (but not limited to):
@@ -20,7 +21,7 @@ Scimax offers an extensive Org-Mode opinionated configuration, including (but no
   - Persistent text highlighting
   - Functions for better sentence and paragraph navigation
 
-This layer attempts to bring some of that to Spacemacs. The features provided are still far from everything scimax offers.
+This layer attempts to bring some of that to Spacemacs. The features provided are still far from everything Scimax offers.
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
 add =scimax= to the existing =dotspacemacs-configuration-layers= list in this
