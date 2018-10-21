@@ -14,6 +14,8 @@
 This layer brings some of the functionality provided by the starter package "[[https://github.com/jkitchin/scimax][scimax]]" into Spacemacs. 
 Functions where taken from that distribution as-is, and thus the correct copyright assignment should be given to the author of scimax, not the author of the layer.
 
+Additionally to /scimax/ functionality the layer also patches some of =org-extra= functions that wouldn't work otherwise with the latest version of Org Mode.
+
 ** Features:
 Scimax offers an extensive Org-Mode opinionated configuration, including (but not limited to):
   - Jupyter-like features for Ipython within org babel
@@ -25,7 +27,7 @@ This layer attempts to bring some of that to Spacemacs. The features provided ar
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
 add =scimax= to the existing =dotspacemacs-configuration-layers= list in this
-file.
+file. Because this is an unofficial layer, you may want to clone it into =~/.emacs.d/private=.
 
 * Key bindings
 
