@@ -14,7 +14,7 @@
 
 ;;; Code:
 
-(defconst scimax-packages
+(defconst scimax-layer-packages
   '(org
     ox-latex
     org-agenda))
